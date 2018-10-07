@@ -3,7 +3,7 @@ Cave Quest is a 2d dungeon crawler/rogue-like game involving procedurally genera
 
 
 # Running the Game
-With IntelliJ, simply clone the repository and open the project. Go to File > Project Structure > Libraries, and click the green +. Add /libraries/javalib.
+With IntelliJ, simply clone the repository and import the project with default settings. Go to File > Project Structure > Libraries, and click the green +. Add /libraries/javalib.
 
 To run the game, simply compile and run Main.java.
 
