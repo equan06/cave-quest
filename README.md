@@ -1,5 +1,4 @@
 # Cave Quest
-![Cave Quest](https://github.com/equan06/cave-quest/blob/master/byog/img/title.png)
 Cave Quest is a 2d dungeon crawler/rogue-like game involving procedurally generated content while keeping a permanent record of the player's progress. In Cave Quest, the player character must fight in turn-based combat rounds against hordes of monsters as they advance deeper into the dungeons. No two playthroughs are the same, as dungeon layouts and monster positions are randomly generated. The ultimate goal is to defeat several boss characters, each of which has a unique mechanic.
 
 
